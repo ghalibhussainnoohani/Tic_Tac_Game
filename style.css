@@ -1,0 +1,55 @@
+*{grid-template-columns: max-content;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.container{
+    margin-left: 25px;
+    border-radius: 30px;
+    height: 370px;
+    width: 400px;
+    background-color:yellow;
+}
+
+.game{
+    margin-left: 400px;
+    height: 445px;
+    width: 450px;
+    background: linear-gradient(red,white)   ;
+    border-radius: 20px;
+}
+
+.btn{
+    height: 70px;
+    width: 70px;
+    margin: 30px;
+    border-radius: 50%;
+    background-color: rgb(211, 3, 3);
+    color: rgb(229, 236, 231);
+
+    position: relative;
+    font-size: 30px;
+    border: none;
+}
+.line{
+    display: flex;   
+}
+.win{
+    color: black;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    height: 30px;
+    width: 400px;
+}
+.bg{
+    height:600px ;
+    width: 1350px;
+    background-color: blueviolet;
+}
+.nav{
+   
+    color: white;
+   
+}
